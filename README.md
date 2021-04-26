@@ -4,7 +4,7 @@ Nama  : Andry Prasetia Perdana
 NIM   : 311910284
 Kelas : TI19C1
 ~~~
-# Langkah Praktikut
+# Langkah Praktikum
 Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti berikut.
 ~~~
 <!DOCTYPE  html>
@@ -338,5 +338,6 @@ Ceklis beberapa menu makanan, lalu akan muncul total dari makanan yang di ceklis
 Jika nama, enail dan alaat terisi atau tidak kosong maka akan dikembalikan ke nilai true
 pada form agar dapat diteruskan
 ![Screenshot (108)](https://user-images.githubusercontent.com/81818989/116099474-36f26700-a6d6-11eb-8cd1-d7b243ab4772.png)
-Jika masih ada yang kosong makan akan muncul alert "Anda harus mengisi data dengan lengkap"
+
+Jika masih ada yang kosong maka akan muncul alert "Anda harus mengisi data dengan lengkap"
 ![Screenshot (109)](https://user-images.githubusercontent.com/81818989/116099644-5f7a6100-a6d6-11eb-960f-0b7671bcdb9f.png)
